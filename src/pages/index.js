@@ -13,5 +13,11 @@ const geistMono = localFont({
 });
 
 export default function Home() {
-  return <section>stuff</section>;
+  return (
+    <>
+      <section>stuff</section>
+      <section>stuff</section>
+      <section>stuff</section>
+    </>
+  );
 }
